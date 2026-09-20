@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nidafazli-Nalband/LeetCode-Quetions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Nidafazli-Nalband/LeetCode-Quetions/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Nidafazli-Nalband/LeetCode-Quetions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
